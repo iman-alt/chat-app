@@ -1,4 +1,4 @@
-# ChatSpark ⚡
+# ChatSpark 
 
 > Real-time multi-user chat app built with Flask, WebSockets, and SQLite.
 
